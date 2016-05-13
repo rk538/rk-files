@@ -135,9 +135,9 @@ line-height: 12px;
 }
 
 .image{
-	text-align: center;
-	margin-left: 300px;
-font-size: 14px;
+	margin-left:80px;
+	margin-right:20px;
+	padding-right:20px;
 }
 
 .image-left {
@@ -171,7 +171,8 @@ font-size: 14px;
 font-family: 'Varela Round', sans-serif;
 font-color: #211F24;
 margin-right: 240px;
-padding-left:80px;
+margin-left: 40px;
+padding-left:40px;
 padding-right:80px;
 text-align: justify;
 }
@@ -191,7 +192,6 @@ text-align: justify;
 .clearfix{
     clear:both
 }
-
 
 .last-paragraph {
 	background: #E8DD6D;
